@@ -1,0 +1,26 @@
+h1{
+  color:darkblue;
+}
+
+h2{
+  color:darkblue;
+}
+
+h3{
+  color:darkblue;
+}
+
+p{
+  color:blue;
+}
+
+body{
+  background-color:rgb(14, 14, 14);
+}
+
+img{
+  border-radius:4px;
+  padding: 5px;
+  width:150px;
+  border:1px solid blue;
+}
